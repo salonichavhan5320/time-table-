@@ -1,0 +1,14 @@
+Flask==3.0.3
+Flask-MySQLdb==2.0.0
+Flask-Login==0.6.3
+Flask-WTF==1.2.1
+Flask-Mail==0.10.0
+Werkzeug==3.0.3
+mysqlclient==2.2.4
+WTForms==3.1.2
+python-dotenv==1.0.1
+requests==2.32.3
+reportlab==4.2.2
+Pillow==10.4.0
+itsdangerous==2.2.0
+email-validator==2.2.0
