@@ -1,4 +1,4 @@
-# RouteCraft - Advanced Smart Travel Planner
+# study planner using human int - Advanced Smart Planner
 
 ## Quick Start
 
